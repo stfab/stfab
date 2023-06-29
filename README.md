@@ -1,8 +1,8 @@
 ### Welcome, to my GitHub profile 👋
 
-Looking for an experienced software developer to help you with your projects? Then you have come to the right place. I am a freelance software engineer from Germany with more than 5 years of experience in the industry. I have several years of experience in object-oriented programming with Java and C# to create GUIs, web applications and APIs. In addition, I am familiar with the design and implementation of enterprise systems on the Microsoft Azure platform. Data integration and data warehousing are other areas of expertise. To do so, I have acquired knowledge of Python, Spark, SQL and the Databricks platform. Sounds interesting? Then feel free to contact me via email so that we can work together to find the best solution for you.
+I'm Fabian, a German freelancer and data enthusiast. After my bachelor's degree in mathematics, I joined the software industry and have been there for over 5 years now. My focus is mainly on application development, both on-prem and in the cloud. I've also worked with GUI applications, and recently I've taken a liking to data engineering.
 
-For more information and news, check out my other websites:
+If you're interested in what I'm doing, check out my other websites:
   * <a href="https://www.fabianstadler.com">My Blog</a>
   * <a href="https://www.fabianstadler.com/p/imprint.html">Imprint</a>
   * <a rel="me" href="https://mastodon.fabianstadler.com/@admin">Mastodon</a>
